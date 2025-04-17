@@ -1,4 +1,5 @@
 # 阿里云盘视频增强脚本（Aliyun_video）功能总结
+[原脚本地址：https://scriptcat.org/zh-CN/script-show-page/162/]
 
 这个脚本是一个专为阿里云盘（阿里网盘）视频播放设计的增强工具，主要功能如下：
 
